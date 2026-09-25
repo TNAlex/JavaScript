@@ -1,0 +1,20 @@
+{
+  "name": "js_pro",
+  "version": "1.0.0",
+  "description": "Demo",
+  "license": "ISC",
+  "author": "",
+  "type": "commonjs",
+  "main": "ap1.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "express": "^5.2.1",
+    "html": "^1.0.0"
+  },
+  "devDependencies": {
+    "mysql": "^2.18.1"
+  }
+}
